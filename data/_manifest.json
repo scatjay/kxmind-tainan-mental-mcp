@@ -1,0 +1,69 @@
+{
+ "fetched_at": "2026-08-27 13:19:08",
+ "sources": [
+  {
+   "key": "map_kml",
+   "url": "https://www.google.com/maps/d/kml?mid=1YhZw1eQCaI3gtDb_E8WBO1XP_-E&forcekml=1",
+   "desc": "臺南市心理健康資源地圖（KML，141 個標點、4 圖層）",
+   "file": "map_kml.xml",
+   "bytes": 102951,
+   "ok": true
+  },
+  {
+   "key": "roster",
+   "url": "https://health.tainan.gov.tw/page.asp?mainid=0A3943E7-033E-4686-8514-7BD39368D32D",
+   "desc": "心理諮商所、心理治療所名冊（治療所 12＋諮商所 20）",
+   "file": "roster.html",
+   "bytes": 84985,
+   "ok": true
+  },
+  {
+   "key": "free_public",
+   "url": "https://health.tainan.gov.tw/page.asp?mainid=586CAFE0-5DA5-49E6-831F-1D54499B808C",
+   "desc": "免付費心理諮商－公部門地點（40 點）",
+   "file": "free_public.html",
+   "bytes": 74638,
+   "ok": true
+  },
+  {
+   "key": "free_private",
+   "url": "https://health.tainan.gov.tw/page.asp?mainid=499FD2AD-07B9-4A27-AA13-E0397489855A",
+   "desc": "免付費心理諮商－需場地費地點（22 家民間，含寬欣）",
+   "file": "free_private.html",
+   "bytes": 71827,
+   "ok": true
+  },
+  {
+   "key": "free_howto",
+   "url": "https://health.tainan.gov.tw/page.asp?mainid=62EF11E9-15AB-4E7F-B50D-B96EF2742503",
+   "desc": "免付費心理諮商－預約方式",
+   "file": "free_howto.html",
+   "bytes": 67923,
+   "ok": true
+  },
+  {
+   "key": "centers",
+   "url": "https://health.tainan.gov.tw/page.asp?mainid=%7B6048F242-90E2-4CC2-9DAB-45D4CCB2ACAD%7D",
+   "desc": "社區心理衛生中心據點（6 處，服務區域涵蓋 37 區）",
+   "file": "centers.html",
+   "bytes": 98541,
+   "ok": true
+  },
+  {
+   "key": "free_csv",
+   "url": "https://data.tainan.gov.tw/File/ResourceCsvDownload/351ee754-b3ca-4efc-bdc0-5ecb4c0ec57b",
+   "desc": "免費心理諮商服務據點 CSV（43 筆，含行政區代碼）",
+   "file": "free_csv.csv",
+   "bytes": 3678,
+   "ok": true
+  },
+  {
+   "key": "area_csv",
+   "url": "https://data.tainan.gov.tw/File/ResourceCsvDownload/5b389f60-dee6-425a-8a40-f5cb2f949cf1",
+   "desc": "臺南市各區代碼 CSV（37 區）",
+   "file": "area_csv.csv",
+   "bytes": 1192,
+   "ok": true
+  }
+ ]
+}

@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>心理健康資源地圖</name>
+    <description>台南市心理健康資源</description>
+    <Style id="icon-1592-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1592-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1592-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1592-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1592-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1592-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1592-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1592-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1592-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1592-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>精神科診所</name>
+      <Placemark>
+        <name>蕭文勝診所</name>
+        <address>701台南市東區東門路二段205號</address>
+        <description><![CDATA[地址: 701台南市東區東門路二段205號<br>電話: 06-2755088]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區東門路二段205號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2755088</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>蔡明輝診所</name>
+        <address>701台南市東區崇學路176號</address>
+        <description><![CDATA[地址: 701台南市東區崇學路176號<br>電話: 06-3369595]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區崇學路176號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3369595</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>胡崇元活泉診所</name>
+        <address>701台南市東區崇德路2之1號</address>
+        <description><![CDATA[地址: 701台南市東區崇德路2之1號<br>電話: 06-2681600]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區崇德路2之1號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2681600</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>王盈彬精神科診所</name>
+        <address>701台南市東區崇善路406號1樓</address>
+        <description><![CDATA[地址: 701台南市東區崇善路406號1樓<br>電話: 06-2600661]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區崇善路406號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2600661</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>春暉精神科診所</name>
+        <address>701台南市東區長榮路二段43號</address>
+        <description><![CDATA[地址: 701台南市東區長榮路二段43號<br>電話: 06-2373888]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區長榮路二段43號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2373888</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心樂活診所</name>
+        <address>701台南市東區凱旋路39號1樓</address>
+        <description><![CDATA[地址: 701台南市東區凱旋路39號1樓<br>電話: 06-2383636]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區凱旋路39號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2383636</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>林忠義診所</name>
+        <address>701台南市東區崇信街138號1樓</address>
+        <description><![CDATA[地址: 701台南市東區崇信街138號1樓<br>電話: 06-3355886]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>701台南市東區崇信街138號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3355886</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>殷建智精神科診所</name>
+        <address>704台南市北區公園北路152號2樓之1</address>
+        <description><![CDATA[地址: 704台南市北區公園北路152號2樓之1<br>電話: 06-2810008]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區公園北路152號2樓之1</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2810008</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>林日光診所</name>
+        <address>704台南市北區長榮路四段152號1樓</address>
+        <description><![CDATA[地址: 704台南市北區長榮路四段152號1樓<br>電話: 06-2376506]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區長榮路四段152號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2376506</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>羅信宜精神科診所</name>
+        <address>704台南市北區長榮路四段141號1樓</address>
+        <description><![CDATA[地址: 704台南市北區長榮路四段141號1樓<br>電話: 06-2002268]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區長榮路四段141號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2002268</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>許森彥精神科診所</name>
+        <address>704台南市北區育德路466號1、2樓</address>
+        <description><![CDATA[地址: 704台南市北區育德路466號1、2樓<br>電話: 06-2513283]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區育德路466號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2513283</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一聯合診所</name>
+        <address>704台南市北區中樓里勝利路421號</address>
+        <description><![CDATA[地址: 704台南市北區中樓里勝利路421號<br>電話: 06-2350116]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區中樓里勝利路421號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2350116</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心悠活診所</name>
+        <address>704台南市北區裕民里金華路五段14號1樓</address>
+        <description><![CDATA[地址: 704台南市北區裕民里金華路五段14號1樓<br>電話: 06-2236766]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>704台南市北區裕民里金華路五段14號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2236766</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>欣悅診所</name>
+        <address>702台南市南區夏林路101號1樓</address>
+        <description><![CDATA[地址: 702台南市南區夏林路101號1樓<br>電話: 06-2283065]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>702台南市南區夏林路101號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2283065</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>康舟診所</name>
+        <address>702台南市南區府南里金華路一段486號2樓</address>
+        <description><![CDATA[地址: 702台南市南區府南里金華路一段486號2樓<br>電話: 06-2655345]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>702台南市南區府南里金華路一段486號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2655345</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>翁桂芳精神科診所</name>
+        <address>700台南市中西區民權路一段14號</address>
+        <description><![CDATA[地址: 700台南市中西區民權路一段14號<br>電話: 06-2217070]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>700台南市中西區民權路一段14號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2217070</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>韓內兒科診所</name>
+        <address>700臺南市中西區民權路2段299號</address>
+        <description><![CDATA[地址: 700臺南市中西區民權路2段299號<br>電話: 06-2222303]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>700臺南市中西區民權路2段299號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2222303</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>晟欣診所</name>
+        <address>700臺南市中西區光賢里中華西路二段506號1樓</address>
+        <description><![CDATA[地址: 700臺南市中西區光賢里中華西路二段506號1樓<br>電話: 06-2585766]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>700臺南市中西區光賢里中華西路二段506號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2585766</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>吳吉得診所</name>
+        <address>709台南市安南區安和路五段280號</address>
+        <description><![CDATA[地址: 709台南市安南區安和路五段280號<br>電話: 06-3563342]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>709台南市安南區安和路五段280號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3563342</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>安大身心精神科診所</name>
+        <address>709臺南市安南區海東里海佃路二段450號</address>
+        <description><![CDATA[地址: 709臺南市安南區海東里海佃路二段450號<br>電話: 06-2568886]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>709臺南市安南區海東里海佃路二段450號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2568886</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心寬診所</name>
+        <address>710臺南市永康區勝利里中華路245號</address>
+        <description><![CDATA[地址: 710臺南市永康區勝利里中華路245號<br>電話: 06-3131212]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710臺南市永康區勝利里中華路245號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3131212</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民麗骨科診所</name>
+        <address>710臺南市永康區永康里聖龍街152號</address>
+        <description><![CDATA[地址: 710臺南市永康區永康里聖龍街152號<br>電話: 06-2011032]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710臺南市永康區永康里聖龍街152號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2011032</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>明澤欣心診所</name>
+        <address>710台南市永康區埔圍里永大路三段411號1、2樓</address>
+        <description><![CDATA[地址: 710台南市永康區埔圍里永大路三段411號1、2樓<br>電話: 06-2012866]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710台南市永康區埔圍里永大路三段411號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2012866</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>林俞仲身心精神科診所</name>
+        <address>710台南市永康區西橋里中山南路31號</address>
+        <description><![CDATA[地址: 710台南市永康區西橋里中山南路31號<br>電話: 06-3036006]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710台南市永康區西橋里中山南路31號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3036006</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心永康身心精神科診所</name>
+        <address>710台南市永康區成功里小東路679號1、2樓</address>
+        <description><![CDATA[地址: 710台南市永康區成功里小東路679號1、2樓<br>電話: 06-3112000]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710台南市永康區成功里小東路679號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3112000</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東橋身心診所</name>
+        <address>710台南市永康區東橋里東橋七路187號1樓</address>
+        <description><![CDATA[地址: 710台南市永康區東橋里東橋七路187號1樓<br>電話: 06-3027772]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>710台南市永康區東橋里東橋七路187號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3027772</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>晴光診所</name>
+        <address>741台南市善化區大成路202號1樓</address>
+        <description><![CDATA[地址: 741台南市善化區大成路202號1樓<br>電話: 06-5856629]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>741台南市善化區大成路202號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-5856629</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>陳俊升精神科診所</name>
+        <address>730台南市新營區三民路76-8、9號</address>
+        <description><![CDATA[地址: 730台南市新營區三民路76-8、9號<br>電話: 06-6376589]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>730台南市新營區三民路76-8、9號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-6376589</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>林晏弘診所</name>
+        <address>730台南市新營區中山路70號</address>
+        <description><![CDATA[地址: 730台南市新營區中山路70號<br>電話: 06-6336500]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>730台南市新營區中山路70號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-6336500</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>安芯診所</name>
+        <address>721台南市麻豆區民權路43-3號1樓</address>
+        <description><![CDATA[地址: 721台南市麻豆區民權路43-3號1樓<br>電話: 06-5727629]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>721台南市麻豆區民權路43-3號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-5727629</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心田診所</name>
+        <address>711台南市歸仁區民權南路23號1樓</address>
+        <description><![CDATA[地址: 711台南市歸仁區民權南路23號1樓<br>電話: 06-3306768]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>711台南市歸仁區民權南路23號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-3306768</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>同行身心診所</name>
+        <address>744臺南市新市區新市里中正路321之2號1樓</address>
+        <description><![CDATA[地址: 744臺南市新市區新市里中正路321之2號1樓<br>電話: 06-5909117]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>744臺南市新市區新市里中正路321之2號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-5909117</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>明如身心診所</name>
+        <address>722臺南市佳里區文化路178號</address>
+        <description><![CDATA[地址: 722臺南市佳里區文化路178號<br>電話: 06-7225656]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>722臺南市佳里區文化路178號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-7225656</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>白河林眼科診所</name>
+        <address>732臺南市白河區白河里中山路2-53號1-2樓</address>
+        <description><![CDATA[地址: 732臺南市白河區白河里中山路2-53號1-2樓<br>電話: 06-6831116]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>732臺南市白河區白河里中山路2-53號1-2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-6831116</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>陳相國聯合診所</name>
+        <address>712臺南市新化區清水里中山路489號1樓及491-1號</address>
+        <description><![CDATA[地址: 712臺南市新化區清水里中山路489號1樓及491-1號<br>電話: 06-5908878]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>712臺南市新化區清水里中山路489號1樓及491-1號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-5908878</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>安平心寬診所</name>
+        <address>708臺南市安平區華平里華平路537號1、2樓</address>
+        <description><![CDATA[地址: 708臺南市安平區華平里華平路537號1、2樓<br>電話: 06-2973757]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>708臺南市安平區華平里華平路537號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2973757</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>瓏芯診所</name>
+        <address>722臺南市佳里區六安里中山路476號1樓</address>
+        <description><![CDATA[地址: 722臺南市佳里區六安里中山路476號1樓<br>電話: 06-7227072<br>0939318889]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>722臺南市佳里區六安里中山路476號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>06-7227072
+0939318889</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東寧身心診所</name>
+        <address>臺南市東區東寧路24-3號</address>
+        <description><![CDATA[地址: 臺南市東區東寧路24-3號<br>電話: 06-2091090]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區東寧路24-3號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2091090</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心自在身心診所</name>
+        <address>臺南市東區崇明路32號</address>
+        <description><![CDATA[地址: 臺南市東區崇明路32號<br>電話: 06-2675725]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區崇明路32號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2675725</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>樂行診所</name>
+        <address>臺南市仁德區中正路二段1116號</address>
+        <description><![CDATA[地址: 臺南市仁德區中正路二段1116號<br>電話: 06-2705633]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市仁德區中正路二段1116號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2705633</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>維特健康診所</name>
+        <address>臺南市安平區安平路23號</address>
+        <description><![CDATA[地址: 臺南市安平區安平路23號<br>電話: 06-2215566]]></description>
+        <styleUrl>#icon-1624-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市安平區安平路23號</value>
+          </Data>
+          <Data name="電話">
+            <value>06-2215566</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>精神醫療機構</name>
+      <Placemark>
+        <name>國立成功大學醫學院附設醫院 </name>
+        <address>臺南市北區勝利路138號</address>
+        <description><![CDATA[住址: 臺南市北區勝利路138號 <br>電話: 06-2353535 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市北區勝利路138號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2353535 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美醫療財團法人奇美醫院樹林院區 </name>
+        <address>臺南市南區樹林街二段442號</address>
+        <description><![CDATA[住址: 臺南市南區樹林街二段442號 <br>電話: 06-2228116 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市南區樹林街二段442號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2228116 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>衛生福利部臺南醫院 </name>
+        <address>臺南市中西區中山路125號</address>
+        <description><![CDATA[住址: 臺南市中西區中山路125號 <br>電話: 06-2200055 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市中西區中山路125號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2200055 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>郭綜合醫院 </name>
+        <address>臺南市中西區民生路二段22號</address>
+        <description><![CDATA[住址: 臺南市中西區民生路二段22號 <br>電話: 06-2221111 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市中西區民生路二段22號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2221111 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台南市立醫院 (委託秀傳醫療社團法人經營)</name>
+        <address>臺南市東區崇德路670號</address>
+        <description><![CDATA[住址: 臺南市東區崇德路670號 <br>電話: 06-2609926 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市東區崇德路670號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2609926 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台灣基督長老教會新樓醫療財團法人台南新樓醫院 </name>
+        <address>臺南市東區東門路一段57號</address>
+        <description><![CDATA[住址: 臺南市東區東門路一段57號 <br>電話: 06-2748316 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市東區東門路一段57號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2748316 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>衛生福利部嘉南療養院 </name>
+        <address>臺南市仁德區裕忠路539號</address>
+        <description><![CDATA[住址: 臺南市仁德區裕忠路539號 <br>電話: 06-2795019 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市仁德區裕忠路539號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2795019 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄榮民總醫院臺南分院 </name>
+        <address>臺南市永康區復興路427號</address>
+        <description><![CDATA[住址: 臺南市永康區復興路427號 <br>電話: 06-3125101 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市永康區復興路427號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-3125101 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>衛生福利部新營醫院 </name>
+        <address>臺南市新營區信義街73號</address>
+        <description><![CDATA[住址: 臺南市新營區信義街73號 <br>電話: 06-6351131 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市新營區信義街73號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-6351131 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美醫療財團法人奇美醫院 </name>
+        <address>臺南市永康區中華路901號</address>
+        <description><![CDATA[住址: 臺南市永康區中華路901號 <br>電話: 06-2812811 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市永康區中華路901號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-2812811 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美醫療財團法人柳營奇美醫院 </name>
+        <address>臺南市柳營區太康村201號</address>
+        <description><![CDATA[住址: 臺南市柳營區太康村201號 <br>電話: 06-6226999 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市柳營區太康村201號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-6226999 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美醫療財團法人佳里奇美醫院 </name>
+        <address>臺南市佳里區興化里佳里興606號</address>
+        <description><![CDATA[住址: 臺南市佳里區興化里佳里興606號 <br>電話: 06-7263333 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市佳里區興化里佳里興606號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-7263333 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台灣基督長老教會新樓醫療財團法人麻豆新樓醫院 </name>
+        <address>臺南市麻豆區小碑里苓子林20號</address>
+        <description><![CDATA[住址: 臺南市麻豆區小碑里苓子林20號 <br>電話: 06-5702228 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市麻豆區小碑里苓子林20號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-5702228 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>財團法人台灣省私立台南仁愛之家附設仁馨醫院</name>
+        <address>臺南市新化區中山路20號</address>
+        <description><![CDATA[住址: 臺南市新化區中山路20號 <br>電話: 06-5902336 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市新化區中山路20號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-5902336 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>衛生福利部臺南醫院新化分院 </name>
+        <address>臺南市新化區那拔里牧場72號</address>
+        <description><![CDATA[住址: 臺南市新化區那拔里牧場72號 <br>電話: 06-5911929 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市新化區那拔里牧場72號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-5911929 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>臺南市立安南醫院-委託中國醫藥大學興建經營 </name>
+        <address>臺南市安南區州南里12鄰長和路二段66號</address>
+        <description><![CDATA[住址: 臺南市安南區州南里12鄰長和路二段66號 <br>電話: 06-3553111 ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="住址">
+            <value>臺南市安南區州南里12鄰長和路二段66號 </value>
+          </Data>
+          <Data name="電話">
+            <value>06-3553111 </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>心理治療、諮商所</name>
+      <Placemark>
+        <name>寬欣心理治療所</name>
+        <address>臺南市北區育德一街227號1、2樓</address>
+        <description><![CDATA[地址: 臺南市北區育德一街227號1、2樓<br>電話: (06)2510966]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區育德一街227號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2510966</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>上善心理治療所</name>
+        <address>臺南市北區林森路三段77號2樓</address>
+        <description><![CDATA[地址: 臺南市北區林森路三段77號2樓<br>電話: (06)2375555]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區林森路三段77號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2375555</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>慈恩心理治療所</name>
+        <address>臺南市永康區中華路1-60號11樓</address>
+        <description><![CDATA[地址: 臺南市永康區中華路1-60號11樓<br>電話: (06)312-6267]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市永康區中華路1-60號11樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)312-6267</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心家心理治療所</name>
+        <address>臺南市東區府連路190號之2</address>
+        <description><![CDATA[地址: 臺南市東區府連路190號之2<br>電話: (06)2160959]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區府連路190號之2</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2160959</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>李慧芳心理治療所</name>
+        <address>臺南市東區崇德十七街124號1樓</address>
+        <description><![CDATA[地址: 臺南市東區崇德十七街124號1樓<br>電話: 0921-126-862]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區崇德十七街124號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>0921-126-862</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>日安心理治療所</name>
+        <address>臺南市南區夏林路167號5樓</address>
+        <description><![CDATA[地址: 臺南市南區夏林路167號5樓<br>電話: (06)2643939]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市南區夏林路167號5樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2643939</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>自然就好心理諮商所</name>
+        <address>臺南市東區慶東街214號1樓</address>
+        <description><![CDATA[地址: 臺南市東區慶東街214號1樓<br>電話: (06)2752858]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區慶東街214號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2752858</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>元品心理諮商所</name>
+        <address>臺南市安平區安平路428號2樓</address>
+        <description><![CDATA[地址: 臺南市安平區安平路428號2樓<br>電話: (06)2229592]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市安平區安平路428號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2229592</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>晨希心理諮商所</name>
+        <address>臺南市東區崇明路187巷23號</address>
+        <description><![CDATA[地址: 臺南市東區崇明路187巷23號<br>電話: 0975-750-736]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區崇明路187巷23號</value>
+          </Data>
+          <Data name="電話">
+            <value>0975-750-736</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>曙光角落心理諮商所</name>
+        <address>臺南市東區崇明路155巷4號1-2樓</address>
+        <description><![CDATA[地址: 臺南市東區崇明路155巷4號1-2樓<br>電話: 0978-909-965]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區崇明路155巷4號1-2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>0978-909-965</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>微笑永康心理諮商所</name>
+        <address>臺南市永康區東橋五路77號2樓</address>
+        <description><![CDATA[地址: 臺南市永康區東橋五路77號2樓<br>電話: (06)3036421]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市永康區東橋五路77號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)3036421</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>看見光亮心理諮商所</name>
+        <address>臺南市北區海安路三段985巷27弄13號1樓</address>
+        <description><![CDATA[地址: 臺南市北區海安路三段985巷27弄13號1樓<br>電話: (06)3584327]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區海安路三段985巷27弄13號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)3584327</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>禾心心理諮商所</name>
+        <address>臺南市北區中華北路二段80巷65號</address>
+        <description><![CDATA[地址: 臺南市北區中華北路二段80巷65號<br>電話: (06)3587725]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區中華北路二段80巷65號</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)3587725</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>看見愛心理諮商所</name>
+        <address>臺南市安平區永華二街183號1樓</address>
+        <description><![CDATA[地址: 臺南市安平區永華二街183號1樓<br>電話: (06)2977769]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市安平區永華二街183號1樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2977769</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>潛心心理諮商所</name>
+        <address>臺南市永康區東橋十二街172號2樓之6</address>
+        <description><![CDATA[地址: 臺南市永康區東橋十二街172號2樓之6<br>電話: 0960-945-160, 0916-025-630]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市永康區東橋十二街172號2樓之6</value>
+          </Data>
+          <Data name="電話">
+            <value>0960-945-160, 0916-025-630</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>心物語心理治療所</name>
+        <address>臺南市永康區東橋一路530號1、2樓</address>
+        <description><![CDATA[地址: 臺南市永康區東橋一路530號1、2樓<br>電話: (06)3025663]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市永康區東橋一路530號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)3025663</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>緩緩心理諮商所</name>
+        <address>臺南市北區北園街124巷10弄64號2樓</address>
+        <description><![CDATA[地址: 臺南市北區北園街124巷10弄64號2樓<br>電話: 0902-009-830, 0902-009-831]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區北園街124巷10弄64號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>0902-009-830, 0902-009-831</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>伴行心理治療所</name>
+        <address>臺南市善化區文昌路42-1號1、2樓</address>
+        <description><![CDATA[地址: 臺南市善化區文昌路42-1號1、2樓<br>電話: 0975-124-951,0963-117-811]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市善化區文昌路42-1號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>0975-124-951,0963-117-811</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>深藏心理治療所</name>
+        <address>臺南市東區崇明路399號2樓</address>
+        <description><![CDATA[地址: 臺南市東區崇明路399號2樓<br>電話: 0963-689-820]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區崇明路399號2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>0963-689-820</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>繪日藝術心理諮商所</name>
+        <address>臺南市安南區怡安路一段98號1、2樓</address>
+        <description><![CDATA[地址: 臺南市安南區怡安路一段98號1、2樓<br>電話: (06)356-5588]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市安南區怡安路一段98號1、2樓</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)356-5588</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>這會心理諮商所</name>
+        <address>臺南市關廟區南雄路二段30號</address>
+        <description><![CDATA[地址: 臺南市關廟區南雄路二段30號<br>電話: 0918-071-281]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市關廟區南雄路二段30號</value>
+          </Data>
+          <Data name="電話">
+            <value>0918-071-281</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>溫柔拾光心理諮商所</name>
+        <address>臺南市東區東光路2段122號</address>
+        <description><![CDATA[地址: 臺南市東區東光路2段122號<br>電話: (06)209-9980;0910-187- 758]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區東光路2段122號</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)209-9980;0910-187- 758</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>樂驛心理諮商所</name>
+        <address>臺南市東區育樂街166-4號</address>
+        <description><![CDATA[地址: 臺南市東區育樂街166-4號<br>電話: (06)209-5055]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市東區育樂街166-4號</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)209-5055</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>悅晴心理諮商所</name>
+        <address>臺南市安平區怡平路442巷88號</address>
+        <description><![CDATA[地址: 臺南市安平區怡平路442巷88號<br>電話: 0937-385-951]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市安平區怡平路442巷88號</value>
+          </Data>
+          <Data name="電話">
+            <value>0937-385-951</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>療心室心理諮商所</name>
+        <address>臺南市北區文成三路305號2樓之1</address>
+        <description><![CDATA[地址: 臺南市北區文成三路305號2樓之1<br>電話: 0958-124-061]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區文成三路305號2樓之1</value>
+          </Data>
+          <Data name="電話">
+            <value>0958-124-061</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>芯寬欣心理治療所</name>
+        <address>臺南市北區北安路一段273號</address>
+        <description><![CDATA[地址: 臺南市北區北安路一段273號<br>電話: (06)2510560]]></description>
+        <styleUrl>#icon-1592-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺南市北區北安路一段273號</value>
+          </Data>
+          <Data name="電話">
+            <value>(06)2510560</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>預約免費心理諮商</name>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市東區林森路一段418號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 衛生局林森辦公室<br>諮商服務時段: 每週二 18:10-21:10<br>地址: 台南市東區林森路一段418號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>衛生局林森辦公室</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 18:10-21:10</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區林森路一段418號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市新營區東興路163號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 衛生局東興辦公室<br>諮商服務時段: 每週二 18:0020:00<br>地址: 台南市新營區東興路163號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>衛生局東興辦公室</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 18:0020:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新營區東興路163號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市東區林森路一段418號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 東區衛生所<br>諮商服務時段: 每週一 9:00-12:00<br>地址: 台南市東區林森路一段418號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>東區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區林森路一段418號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市麻豆區興國路11-1號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 麻豆區衛生所<br>諮商服務時段: 每週一 9:00-12:00<br>地址: 台南市麻豆區興國路11-1號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>麻豆區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市麻豆區興國路11-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市新化區健康路143號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 新化區衛生所<br>諮商服務時段: 每週一 9:00-12:00 <br>地址: 台南市新化區健康路143號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>新化區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 9:00-12:00 </value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新化區健康路143號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市六甲區中華路110號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 六甲區衛生所<br>諮商服務時段: 每週一 14:00-17:00<br>地址: 台南市六甲區中華路110號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>六甲區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市六甲區中華路110號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市新市區中興街12號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 新市區衛生所<br>諮商服務時段: 每週一 14:00-17:00<br>地址: 台南市新市區中興街12號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>新市區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新市區中興街12號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市中西區環河街94號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 中西區衛生所<br>諮商服務時段: 每週二 9:00-12:00<br>地址: 台南市中西區環河街94號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>中西區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市中西區環河街94號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市左鎮區中正里172之15號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 左鎮區衛生所<br>諮商服務時段: 每週二 9:00-12:00<br>地址: 台南市左鎮區中正里172之15號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>左鎮區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市左鎮區中正里172之15號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市北區西華街50號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 北區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市北區西華街50號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>北區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區西華街50號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市佳里區進學路159號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 佳里區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市佳里區進學路159號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>佳里區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市佳里區進學路159號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市關廟區中正路1000號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 關廟區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市關廟區中正路1000號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>關廟區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市關廟區中正路1000號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市學甲區建國路38號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 學甲區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市學甲區建國路38號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>學甲區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市學甲區建國路38號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市柳營區士林里柳營54之5號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 柳營區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市柳營區士林里柳營54之5號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>柳營區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市柳營區士林里柳營54之5號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市七股區大埕里379號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 七股區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市七股區大埕里379號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>七股區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市七股區大埕里379號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市大內區大內里2號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 大內區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市大內區大內里2號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>大內區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市大內區大內里2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市龍崎區崎頂里新市子158號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 龍崎區衛生所<br>諮商服務時段: 每週二 14:00-17:00<br>地址: 台南市龍崎區崎頂里新市子158號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>龍崎區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市龍崎區崎頂里新市子158號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市將軍區忠興里185之6號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 將軍區衛生所<br>諮商服務時段: 每週三 9:00-12:00<br>地址: 台南市將軍區忠興里185之6號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>將軍區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市將軍區忠興里185之6號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市新營區三民路72號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 新營區衛生所<br>諮商服務時段: 每週三 9:00-12:00<br>地址: 台南市新營區三民路72號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>新營區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新營區三民路72號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市東山區東山里236號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 東山區衛生所<br>諮商服務時段: 每週三 9:00-12:00<br>地址: 台南市東山區東山里236號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>東山區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東山區東山里236號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市下營區中山路二段137號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 下營區衛生所<br>諮商服務時段: 每週三 9:00-12:00<br>地址: 台南市下營區中山路二段137號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>下營區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市下營區中山路二段137號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市後壁區後壁里3號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 後壁區衛生所<br>諮商服務時段: 每週三 9:00-12:00<br>地址: 台南市後壁區後壁里3號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>後壁區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市後壁區後壁里3號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市南區南和路6號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 南區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市南區南和路6號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>南區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市南區南和路6號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市玉井區中正路5號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 玉井區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市玉井區中正路5號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>玉井區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市玉井區中正路5號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市南化區226之1號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 南化區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市南化區226之1號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>南化區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市南化區226之1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市歸仁區中正北路1段1號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 歸仁區衛生所<br>諮商服務時段: 每週三 14:00-16:00<br>地址: 台南市歸仁區中正北路1段1號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>歸仁區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-16:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市歸仁區中正北路1段1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市安定區安定里59號之1</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 安定區衛生所<br>諮商服務時段: 每週三 14:00-16:00<br>地址: 台南市安定區安定里59號之1]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>安定區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-16:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安定區安定里59號之1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市鹽水區武廟路1號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 鹽水區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市鹽水區武廟路1號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>鹽水區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市鹽水區武廟路1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市楠西區中正路226號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 楠西區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市楠西區中正路226號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>楠西區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市楠西區中正路226號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市西港區中山路368號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 西港區衛生所<br>諮商服務時段: 每週三 14:00-17:00<br>地址: 台南市西港區中山路368號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>西港區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市西港區中山路368號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市白河區國光路5號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 白河區衛生所<br>諮商服務時段: 每週四 9:00-12:00<br>地址: 台南市白河區國光路5號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>白河區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市白河區國光路5號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市官田區中山路一段128號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 官田區衛生所<br>諮商服務時段: 每週四 9:00-12:00<br>地址: 台南市官田區中山路一段128號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>官田區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市官田區中山路一段128號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市仁德區中山路606巷2號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 仁德區衛生所<br>諮商服務時段: 每週四 14:00-17:00<br>地址: 台南市仁德區中山路606巷2號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>仁德區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市仁德區中山路606巷2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市安南區仁安路70號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 安南區衛生所<br>諮商服務時段: 每週四 14:00-17:00<br>地址: 台南市安南區仁安路70號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>安南區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安南區仁安路70號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市善化區中山路200號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 善化區衛生所<br>諮商服務時段: 每週四 14:00-17:00<br>地址: 台南市善化區中山路200號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>善化區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市善化區中山路200號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市永康區文化路51號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 永康區衛生所<br>諮商服務時段: 每週四 14:00-17:00<br>地址: 台南市永康區文化路51號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>永康區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市永康區文化路51號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市安平區育平路310號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 安平區衛生所<br>諮商服務時段: 每週五 9:00-12:00<br>地址: 台南市安平區育平路310號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>安平區衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週五 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安平區育平路310號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>台南市安平區健康路三段308號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 臺南地方法院<br>諮商服務時段: 每週五 14:00-16:00<br>地址: 台南市安平區健康路三段308號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>臺南地方法院</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週五 14:00-16:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安平區健康路三段308號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>臺南市北門區永隆里港北50號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 北門衛生所<br>諮商服務時段: 每週二 9:00-12:00<br>地址: 臺南市北門區永隆里港北50號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>北門衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 9:00-12:00</value>
+          </Data>
+          <Data name="地址">
+            <value>臺南市北門區永隆里港北50號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>預約免費心理諮商</name>
+        <address>臺南市山上區山上里35-2號</address>
+        <description><![CDATA[請撥預約電話: 06-3352982<br>諮商地點: 山上衛生所<br>諮商服務時段: 每週四 14:00-17:00<br>地址: 臺南市山上區山上里35-2號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3352982</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>山上衛生所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四 14:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>臺南市山上區山上里35-2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區育德一街227號</address>
+        <description><![CDATA[請撥預約電話: 06-2510966<br>諮商地點: 寬欣心理治療所<br>諮商服務時段: 每週一至五 8:00-21:00<br>地址: 台南市北區育德一街227號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-2510966</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>寬欣心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至五 8:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區育德一街227號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區林森路三段77號2F</address>
+        <description><![CDATA[請撥預約電話: 06-2375555<br>諮商地點: 上善心理治療所<br>諮商服務時段: 每週三 17:00-20:00<br>地址: 台南市北區林森路三段77號2F]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-2375555</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>上善心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三 17:00-20:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區林森路三段77號2F</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區海安路三段985巷27弄13號</address>
+        <description><![CDATA[請撥預約電話: 06-3584327<br>諮商地點: 看見光亮心理諮商所<br>諮商服務時段: 每週一 13:00-21:00<br>地址: 台南市北區海安路三段985巷27弄13號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3584327</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>看見光亮心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 13:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區海安路三段985巷27弄13號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市永康區中華路1-60號(金三角大樓11F)</address>
+        <description><![CDATA[請撥預約電話: 06-3035920<br>諮商地點: 慈恩心理治療所<br>諮商服務時段: 每週一 9:00-21:30<br>地址: 台南市永康區中華路1-60號(金三角大樓11F)]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3035920</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>慈恩心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一 9:00-21:30</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市永康區中華路1-60號(金三角大樓11F)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市永康區東橋一路530號</address>
+        <description><![CDATA[請撥預約電話: 06-3025663<br>諮商地點: 心物語心理治療所<br>諮商服務時段: 每週二、五 8:00-21:00<br>地址: 台南市永康區東橋一路530號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3025663</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>心物語心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二、五 8:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市永康區東橋一路530號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市安平區永華二街183號</address>
+        <description><![CDATA[請撥預約電話: 06-2977769<br>諮商地點: 看見愛心理諮商所<br>諮商服務時段: 每週二 19:00-21:00<br>地址: 台南市安平區永華二街183號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-2977769</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>看見愛心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 19:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安平區永華二街183號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市東區崇明路155巷4號</address>
+        <description><![CDATA[請撥預約電話: 0978-909965<br>諮商地點: 曙光角落心理諮商所<br>諮商服務時段: 每週二 15:00-21:00<br>地址: 台南市東區崇明路155巷4號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0978-909965</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>曙光角落心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二 15:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區崇明路155巷4號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市東區崇德十七街124號</address>
+        <description><![CDATA[請撥預約電話: 0921-126862<br>諮商地點: 李慧芳心理治療所<br>諮商服務時段: 每週一至六 18:00-21:00<br>地址: 台南市東區崇德十七街124號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0921-126862</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>李慧芳心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至六 18:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區崇德十七街124號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市南區夏林路167號</address>
+        <description><![CDATA[請撥預約電話: 06-2643939<br>諮商地點: 日安心理治療所<br>諮商服務時段: 每週四、五 13:30-16:30<br>地址: 台南市南區夏林路167號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-2643939</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>日安心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週四、五 13:30-16:30</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市南區夏林路167號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市關廟區南雄路二段30號</address>
+        <description><![CDATA[請撥預約電話: 0918-071281<br>諮商地點: 這會心理諮商所<br>諮商服務時段: 每週五 13:00-17:00<br>地址: 台南市關廟區南雄路二段30號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0918-071281</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>這會心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週五 13:00-17:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市關廟區南雄路二段30號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區中華北路二段80巷65號</address>
+        <description><![CDATA[請撥預約電話: 06-3587725<br>諮商地點: 禾心心理諮商所<br>諮商服務時段: 每週二至五 13:00-21:00<br>地址: 台南市北區中華北路二段80巷65號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>06-3587725</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>禾心心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二至五 13:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區中華北路二段80巷65號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區文成三路305號2樓之1</address>
+        <description><![CDATA[請撥預約電話: 0958-124-061<br>諮商地點: 療心室心理諮商所<br>諮商服務時段: 每週三至日 10:00-20:00<br>地址: 台南市北區文成三路305號2樓之1]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0958-124-061</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>療心室心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週三至日 10:00-20:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區文成三路305號2樓之1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市北區北園街124巷10弄64號</address>
+        <description><![CDATA[請撥預約電話: 0902-009-830丶0902-009-831<br>諮商地點: 緩緩心理諮商所<br>諮商服務時段: 每週一至日 10:00-21:00<br>地址: 台南市北區北園街124巷10弄64號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0902-009-830丶0902-009-831</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>緩緩心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至日 10:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區北園街124巷10弄64號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市安平區怡平路442巷88號2樓</address>
+        <description><![CDATA[請撥預約電話: 0937-385-951<br>諮商地點: 悅晴心理諮商所<br>諮商服務時段: 每週一至日 10:00-12:00；18:00-20:00 <br>地址: 台南市安平區怡平路442巷88號2樓]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0937-385-951</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>悅晴心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至日 10:00-12:00；18:00-20:00 </value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安平區怡平路442巷88號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市東區育樂街166-4號4樓</address>
+        <description><![CDATA[請撥預約電話: (06)209-5055<br>諮商地點: 樂驛心理諮商所<br>諮商服務時段: 每週一至六 9:10-21:00<br>地址: 台南市東區育樂街166-4號4樓]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>(06)209-5055</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>樂驛心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至六 9:10-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區育樂街166-4號4樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市東區東光路二段122號</address>
+        <description><![CDATA[請撥預約電話: (06)209-9980、0910-187- 758<br>諮商地點: 溫柔拾光心理諮商所<br>諮商服務時段: 每週一至五 13:00-21:00<br>地址: 台南市東區東光路二段122號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>(06)209-9980、0910-187- 758</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>溫柔拾光心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週一至五 13:00-21:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區東光路二段122號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市善化區文昌路42-1號</address>
+        <description><![CDATA[請撥預約電話: 0975-124-951、0963-117-811<br>諮商地點: 伴行心理治療所<br>諮商服務時段: 每週二至六 09:00-20:00<br>地址: 台南市善化區文昌路42-1號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>0975-124-951、0963-117-811</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>伴行心理治療所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二至六 09:00-20:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市善化區文昌路42-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>(酌收場地費)預約免費心理諮商</name>
+        <address>台南市安南區怡安路一段98號</address>
+        <description><![CDATA[請撥預約電話: (06)356-5588<br>諮商地點: 繪日藝術心理諮商所<br>諮商服務時段: 每週二至五 15:00-20:00<br>地址: 台南市安南區怡安路一段98號]]></description>
+        <styleUrl>#icon-1592-097138</styleUrl>
+        <ExtendedData>
+          <Data name="請撥預約電話">
+            <value>(06)356-5588</value>
+          </Data>
+          <Data name="諮商地點">
+            <value>繪日藝術心理諮商所</value>
+          </Data>
+          <Data name="諮商服務時段">
+            <value>每週二至五 15:00-20:00</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市安南區怡安路一段98號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
