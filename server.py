@@ -27,6 +27,10 @@
 import io
 import os
 import re
+
+# 電話 regex：三支順序不能換——0800 與 09XX 必須排在市話前面。
+# 市話那支會把 0902-009-830 配成 02-009-830（一組合法的台北市話），
+# 在助人工作裡給錯電話是實害，不是小瑕疵。
 import sys
 import csv
 import json
@@ -106,7 +110,7 @@ def _kml():
             desc = re.sub(r"\s+", " ", desc).strip()
             addr = (ad.text or "").strip() if ad is not None else ""
             phone = ""
-            m = re.search(r"(\(?0\d{1,2}\)?[-\s]?\d{3,4}[-\s]?\d{3,4})", desc + " " + addr)
+            m = re.search(r"(0800[-\s]?\d{3}[-\s]?\d{3}|09\d{2}[-\s]?\d{3}[-\s]?\d{3}|\(?0\d{1,2}\)?[-\s]?\d{3,4}[-\s]?\d{3,4})", desc + " " + addr)
             if m:
                 phone = m.group(1)
             items.append({
@@ -142,7 +146,7 @@ def _roster():
         if any(o["name"] == nm for o in out):
             continue
         blob = " ".join(lines[i:i + 3])
-        ph = re.search(r"(\(?0\d{1,2}\)?[-\s]?\d{3,4}[-\s]?\d{3,4})", blob)
+        ph = re.search(r"(0800[-\s]?\d{3}[-\s]?\d{3}|09\d{2}[-\s]?\d{3}[-\s]?\d{3}|\(?0\d{1,2}\)?[-\s]?\d{3,4}[-\s]?\d{3,4})", blob)
         ar = re.search(r"([一-鿿]{1,3}區)", blob)
         ad = re.search(r"((?:臺南市|台南市)?[一-鿿]{1,3}區[^\s，,]{2,40})", blob)
         out.append({
@@ -291,7 +295,7 @@ def ping() -> str:
             "  社區心衛中心：%d 處" % len(_centers()),
             "  免費諮商點：%d 個" % len(_free_points()),
             "",
-            "  試試看：find_myself(\"寬欣\") 或 who_covers(\"北區\")",
+            "  試試看：find_myself(\"寬欣\") 或 which_center(\"北區\")",
         ])
     except Exception as e:
         return "❌ 有問題：%s\n\n先在 repo 目錄跑 `python fetch_snapshot.py` 建快照。" % e

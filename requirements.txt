@@ -1,1 +1,5 @@
-mcp>=1.0
+# mcp 一定要 pin <2。
+# 2.x 把 FastMCP 改名成 MCPServer，mcp.server.fastmcp 整個移除，
+# 寫 mcp>=1.0 在全新機器上會裝到 2.x，server.py 直接 ModuleNotFoundError。
+# 症狀是「Claude 裡完全看不到工具」，而且不會有任何錯誤訊息給使用者看。
+mcp>=1.0,<2
